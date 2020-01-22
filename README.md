@@ -1,4 +1,4 @@
 # request-multiple-urls
- FT.com test
+ FT.com['FT.com'] test
 
 simply run `node index.js`
